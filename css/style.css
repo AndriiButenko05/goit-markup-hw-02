@@ -72,7 +72,7 @@ h1 {
   font-size: 56px;
   line-height: 107%;
   letter-spacing: 0.02em;
-  text-align: center;
+  /* text-align: center; */
   color: #fff;
 }
 .head-one-sect {
@@ -81,10 +81,10 @@ h1 {
   height: 600px; */
 }
 .head-button {
-  border-radius: 4px;
-  padding: 16px 32px;
-  width: 169px;
-  height: 56px;
+  /* border-radius: 4px; */
+  /* padding: 16px 32px; */
+  /* width: 169px;
+  height: 56px; */
   /* box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15); */
   background: #4d5ae5;
   font-weight: 500;
@@ -102,7 +102,7 @@ h1 {
 
 /* Features */
 .features {
-  display: none;
+  /* display: none; */
 }
 .features-list-item-heading {
   font-weight: 500;
@@ -127,7 +127,7 @@ h1 {
   font-size: 36px;
   line-height: 111%;
   letter-spacing: 0.02em;
-  text-align: center;
+  /* text-align: center; */
   color: #2e2f42;
   text-transform: capitalize;
 }
@@ -159,7 +159,7 @@ h1 {
   font-size: 36px;
   line-height: 111%;
   letter-spacing: 0.02em;
-  text-align: center;
+  /* text-align: center; */
   color: #2e2f42;
   text-transform: capitalize;
 }
