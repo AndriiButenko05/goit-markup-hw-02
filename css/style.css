@@ -87,9 +87,17 @@ h1 {
   height: 56px;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+  color: #ffffff;
 }
 .head-button:hover {
   background: #404bbf;
+}
+.head-button:focus {
+  background-color: #404bbf;
 }
 
 /* Features */
