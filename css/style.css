@@ -9,6 +9,9 @@ ul {
 a {
   text-decoration: none;
 }
+button {
+  font-family: 'Roboto', sans-serif;
+}
 /* HEADER */
 .header-logo {
   font-family: 'Raleway', sans-serif;
