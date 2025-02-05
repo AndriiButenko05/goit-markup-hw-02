@@ -77,15 +77,15 @@ h1 {
 }
 .head-one-sect {
   background: #2e2f42;
-  width: 1440px;
-  height: 600px;
+  /* width: 1440px;
+  height: 600px; */
 }
 .head-button {
   border-radius: 4px;
   padding: 16px 32px;
   width: 169px;
   height: 56px;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  /* box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15); */
   background: #4d5ae5;
   font-weight: 500;
   line-height: 1.5;
@@ -133,10 +133,10 @@ h1 {
 }
 .team-list-item {
   background-color: #ffffff;
-  border-radius: 0 0 4px 4px;
-  padding: 0px 0px 32px 0px;
-  width: 264px;
-  height: 380px;
+  /* border-radius: 0 0 4px 4px; */
+  /* padding: 0px 0px 32px 0px; */
+  /* width: 264px;
+  height: 380px; */
 }
 .team-list-heading {
   font-weight: 500;
@@ -165,12 +165,12 @@ h1 {
 }
 .portfolio-list-item {
   border: 1px solid #e7e9fc;
-  width: 360px;
-  height: 420px;
+  /* width: 360px;
+  height: 420px; */
 }
 .portfolio-list-img {
-  width: 360px;
-  height: 300px;
+  /* width: 360px;
+  height: 300px; */
 }
 .portfolio-list-heading {
   font-weight: 500;
